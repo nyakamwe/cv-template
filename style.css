@@ -30,5 +30,8 @@ body{
 }
 .content h2{
     color:rgb(4, 4, 75);
-    /* font-weight: bold; */
+}
+
+.content #name:active {
+   color:yellow;
 }
